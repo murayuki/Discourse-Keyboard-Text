@@ -1,5 +1,8 @@
+# Added so keyboard icon will not be blank. 
 svg_icons: 
+  # Keyboard icon
   default: 'keyboard'
   type: 'list'
   list_type: 'compact'
+  # Warn users that they cannot change this settings. 
   description: "Warning: Do NOT DELETE OR CHANGE!"
