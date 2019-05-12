@@ -1,0 +1,9 @@
+{
+  "name": "Keyboard Text Button Component",
+  "about_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/about.json",
+  "license_url": "https://github.com/Chaboi45/discourse-keyboard-text/blob/master/LICENSE",
+  "authors": "Chaboi_3000",
+  "theme_version": "1.3",
+  "component": true
+  
+}
