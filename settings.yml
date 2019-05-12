@@ -2,3 +2,4 @@ svg_icons:
   default: 'keyboard'
   type: 'list'
   list_type: 'compact'
+  description: "Warning: Do NOT DELETE OR CHANGE!"
